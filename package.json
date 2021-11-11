@@ -1,0 +1,17 @@
+{
+  "name": "fb-login-page",
+  "version": "1.0.0",
+  "description": "FB Login Page Clone in HTML and CSS",
+  "main": "src/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyas102/fb-login-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyas102/fb-login-page/issues"
+  },
+  "homepage": "https://github.com/Shreyas102/fb-login-page#readme"
+}
